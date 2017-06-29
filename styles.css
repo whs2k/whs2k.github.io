@@ -1,8 +1,126 @@
-.title{
-display: block;
-margin: 0 auto;	
+.db {
+    display: block;
 }
-.graph {
-display: block;
-margin: 0 auto;	
+
+.dib {
+    display: inline-block;
+}
+
+.avenir {
+    font-family: 'avenir next', avenir, sans-serif;
+}
+
+.baskerville {
+    font-family: baskerville, serif;
+}
+
+.fw1 {
+    font-weight: 100;
+}
+
+.lh-title {
+    line-height: 1.25;
+}
+
+.lh-copy {
+    line-height: 1.5;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.pb5 {
+    padding-bottom: 4rem;
+}
+
+.pt4 {
+    padding-top: 2rem;
+}
+
+.ph3 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.mb4 {
+    margin-bottom: 2rem;
+}
+
+.mt0 {
+    margin-top: 0;
+}
+
+.mt4 {
+    margin-top: 2rem;
+}
+
+.f3 {
+    font-size: 1.5rem;
+}
+
+.f4 {
+    font-size: 1.25rem;
+}
+
+.f5 {
+    font-size: 1rem;
+}
+
+.measure {
+    max-width: 30em;
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media screen and (min-width: 30em) {
+    .pt5-ns {
+        padding-top: 4rem;
+    }
+
+    .ph4-ns {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .mt5-ns {
+        margin-top: 4rem;
+    }
+
+    .f4-ns {
+        font-size: 1.25rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .ph4-m {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+
+    .f2-m {
+        font-size: 2.25rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .ph5-l {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+
+    .tc-l {
+        text-align: center;
+    }
+
+    .f-subheadline-l {
+        font-size: 5rem;
+    }
+
+    .f4-l {
+        font-size: 1.25rem;
+    }
 }
