@@ -1,0 +1,4 @@
+#!/bin/sh
+python /Users/whs/Applications/anaconda/bin/python3.6 /Users/whs/Documents/DataJournalism/CongressionalTweets/whs2k.github.io/congressTweetscongressTweets.py
+
+
