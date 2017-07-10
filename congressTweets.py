@@ -419,7 +419,7 @@ plt.title('Congress Mood By Twitter')
 plt.xlabel('Date',**thfont)
 plt.ylabel('Sentiment',**thfont)
 plt.savefig(pwd+'/todaysMood.png')
-plt.show()
+#plt.show()
 
 
 
