@@ -2,12 +2,12 @@
     /*This is a comment top, right, bottom, left*/
     /*margin: 0 25px;      */
 }
-b:link {
+a:link {
     color: blue;
     background-color: transparent;
     text-decoration: none;
 }
-b:hover {
+a:hover {
     color: blue;
     background-color: transparent;
     text-decoration: underline;
