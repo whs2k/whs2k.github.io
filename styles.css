@@ -100,12 +100,12 @@ a:hover {
 }
 
 .textContainerRight{
-    float: center;
+    float: right;
     padding-right: 4rem
 }
 
 .textContainerleft{
-    float: center;
+    float: left;
     padding-left: 4rem
 }
 
