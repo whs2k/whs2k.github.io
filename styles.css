@@ -92,11 +92,11 @@ a:hover {
 
 .imgContainerLeft{
     float: left;
-    padding-left:  2rem
+    padding-left:  10rem
 }
 .imgContainerRight{
     float: right;
-    padding-right: 2rem
+    padding-right: 10rem
 }
 
 .textContainerRight{
@@ -106,6 +106,11 @@ a:hover {
 
 .textContainerleft{
     float: left;
+    padding-left: 4rem
+}
+
+.textContainerCenter{
+    float: center;
     padding-left: 4rem
 }
 
