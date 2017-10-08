@@ -94,7 +94,7 @@ a:hover {
     float: left;
 }
 .imgContainerRight{
-    float: left;
+    float: right;
 }
 
 @media screen and (min-width: 30em) {
