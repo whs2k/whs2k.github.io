@@ -90,6 +90,10 @@ a:hover {
     margin-left: auto;
 }
 
+.imgContainer{
+    float:left;
+}
+
 @media screen and (min-width: 30em) {
     .pt5-ns {
         padding-top: 4rem;
