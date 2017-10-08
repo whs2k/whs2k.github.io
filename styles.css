@@ -99,10 +99,16 @@ a:hover {
     padding-right: 2rem
 }
 
-.textContainer{
+.textContainerRight{
     float: center;
-    padding-right: 2rem
+    padding-right: 4rem
 }
+
+.textContainerleft{
+    float: center;
+    padding-left: 4rem
+}
+
 
 @media screen and (min-width: 30em) {
     .pt5-ns {
