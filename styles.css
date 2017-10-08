@@ -91,10 +91,10 @@ a:hover {
 }
 
 .imgContainerLeft{
-    float: left;
+    float: center;
 }
 .imgContainerRight{
-    float: right;
+    float: center;
 }
 
 @media screen and (min-width: 30em) {
